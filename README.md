@@ -7,7 +7,7 @@ Show queued local notification as soon as app enters background.
 
 # Installation
 
-## Cocoapods
+## CocoaPods
 
 EWTBackgroundLocalNotification is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
